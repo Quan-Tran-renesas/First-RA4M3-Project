@@ -1,0 +1,2 @@
+../SMBus_PMBus_Stack/App/app_X-CUBE-SMBUS.c:26:6:MX_SMBus_PMBus_Stack_Process	8	static
+../SMBus_PMBus_Stack/App/app_X-CUBE-SMBUS.c:50:6:MX_SMBus_PMBus_Stack_Init	16	static

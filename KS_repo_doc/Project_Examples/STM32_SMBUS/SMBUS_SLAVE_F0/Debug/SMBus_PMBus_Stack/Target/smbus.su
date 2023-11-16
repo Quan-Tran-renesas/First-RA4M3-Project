@@ -1,0 +1,3 @@
+../SMBus_PMBus_Stack/Target/smbus.c:38:6:MX_STACK_SMBUS_Init	16	static
+../SMBus_PMBus_Stack/Target/smbus.c:94:19:STACK_SMBUS_ExtendCommand	32	static
+../SMBus_PMBus_Stack/Target/smbus.c:231:13:MX_SMBUS_Error_Check	16	static

@@ -1,0 +1,4 @@
+Some information about cgc_api_t maybe wrong: https://renesas.github.io/fsp/group___c_g_c___a_p_i.html#structcgc__api__t
+
+1. oscStopDetectEnable	: parameters information seem redundance (p_callback & enable)
+2. callbackSet			: some parameter is not matched with interface definition

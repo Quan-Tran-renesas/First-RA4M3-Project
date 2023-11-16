@@ -1,0 +1,4 @@
+../SMBus_PMBus_Stack/Target/smbus.c:38:6:MX_STACK_SMBUS_Init	2
+../SMBus_PMBus_Stack/Target/smbus.c:84:19:STACK_SMBUS_ExtendCommand	7
+../SMBus_PMBus_Stack/Target/smbus.c:155:19:STACK_SMBUS_ExecuteCommand	7
+../SMBus_PMBus_Stack/Target/smbus.c:221:13:MX_SMBUS_Error_Check	4

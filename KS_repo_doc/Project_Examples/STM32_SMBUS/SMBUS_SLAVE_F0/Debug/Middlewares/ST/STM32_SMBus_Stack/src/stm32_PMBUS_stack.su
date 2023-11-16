@@ -1,0 +1,8 @@
+../Middlewares/ST/STM32_SMBus_Stack/src/stm32_PMBUS_stack.c:100:19:STACK_PMBUS_HostCommandGroup	56	static
+../Middlewares/ST/STM32_SMBus_Stack/src/stm32_PMBUS_stack.c:199:6:STACK_SMBUS_LocateCommand	32	static
+../Middlewares/ST/STM32_SMBus_Stack/src/stm32_PMBUS_stack.c:287:19:STACK_PMBUS_MasterZoneWrite	40	static
+../Middlewares/ST/STM32_SMBus_Stack/src/stm32_PMBUS_stack.c:382:19:STACK_PMBUS_MasterZoneConfig	24	static
+../Middlewares/ST/STM32_SMBus_Stack/src/stm32_PMBUS_stack.c:397:19:STACK_PMBUS_MasterZoneActive	16	static
+../Middlewares/ST/STM32_SMBus_Stack/src/stm32_PMBUS_stack.c:413:19:STACK_PMBUS_MasterReadZoneStatus	40	static
+../Middlewares/ST/STM32_SMBus_Stack/src/stm32_PMBUS_stack.c:464:19:STACK_PMBUS_MasterZoneReadStatusCont	40	static
+../Middlewares/ST/STM32_SMBus_Stack/src/stm32_PMBUS_stack.c:484:26:STACK_PMBUS_ZoneReadCallback	24	static
